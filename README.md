@@ -1,10 +1,10 @@
-## Hey 👋, We are Poly Page!
+## Hey 👋, We are TTO !
 <a href='https://github.com/DATN5T1L/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/DATN5T1L/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://github.com/DATN5T1L/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-We are proud to introduce PolyPage 🌐, a pioneering platform for delivering high-quality online courses. Our project is built with a perfect blend of advanced technologies:
+We are proud to introduce TTO 🌐, a pioneering platform for delivering high-quality online courses. Our project is built with a perfect blend of advanced technologies:
 
 - PostgreSQL 🗄️ for robust database management.</br>
 - HTML 📝 and CSS 🎨 to craft a sleek and elegant web interface.</br>
@@ -27,7 +27,7 @@ We are committed to providing learners with an innovative and inspiring educatio
 
 - 🌱 We are currently learning **FPT Polytechnic College Ho Chi Minh City**
 
-- 💬 Ask me about **Poly page**
+- 💬 Ask me about **TTO**
 
 - 📫 How to reach me **polypage.project@gmail.com**
 
